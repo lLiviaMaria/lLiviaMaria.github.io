@@ -1,0 +1,55 @@
+section.container div#anunciotablet{
+    width:100%;
+    float:left;
+    text-align:center;
+    color:#fff;
+    background-color: #4793FF;
+    padding:5px 0;
+    margin-bottom:30px;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff;
+}
+section.container article#conteudo h1{
+    font-size:22px;
+    color:#333333;
+}
+
+section.container article#conteudo p{
+    color:#666666;
+    font-size:18px;
+}
+
+section.container article#coluna h2{
+    font-size:22px;
+    color:#333333;
+}
+
+section.container aside#coluna p{
+    font-size:18px;
+    color:#666666;
+}
+
+section.container article#conteudo{
+    width:60%;
+    float:left;
+}
+
+section.container aside#coluna{
+    width:35%;
+    float:right;
+}
+
+div.col-sm-3 p{
+    margin-bottom:10px;
+    text-align:center;
+    font-size:20px;
+    margin-top:10px;
+}
+
+.container .row .col-sm-3 img{
+display: block;
+margin: auto;
+padding-left: 2%;
+padding-right: 2%;
+}
